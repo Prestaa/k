@@ -7,7 +7,7 @@ sudo pip3 install keylogger
 keylogger --log-file "/dev/shm/t.log"
 ```
 
-> [!TIP
+> [!TIP]
 > Remove
 ```
 sudo pip3 uninstall keylogger
